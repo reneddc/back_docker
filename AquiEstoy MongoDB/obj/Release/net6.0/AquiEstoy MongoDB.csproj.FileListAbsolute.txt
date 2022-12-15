@@ -1,0 +1,50 @@
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\appsettings.Development.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\appsettings.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AquiEstoy MongoDB.exe
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AquiEstoy MongoDB.deps.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AquiEstoy MongoDB.runtimeconfig.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AquiEstoy MongoDB.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AquiEstoy MongoDB.pdb
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AutoMapper.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\CloudinaryDotNet.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\DnsClient.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\MongoDB.Bson.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\MongoDB.Driver.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\MongoDB.Driver.Core.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\MongoDB.Libmongocrypt.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\SharpCompress.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\linux\native\libsnappy64.so
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\linux\native\libzstd.so
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\osx\native\libsnappy64.dylib
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\osx\native\libzstd.dylib
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\win\native\libzstd.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\win\native\snappy32.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\win\native\snappy64.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\bin\Release\net6.0\runtimes\win\native\mongocrypt.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.csproj.AssemblyReference.cache
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.AssemblyInfoInputs.cache
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.AssemblyInfo.cs
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.csproj.CoreCompileInputs.cache
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\scopedcss\bundle\AquiEstoy MongoDB.styles.css
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.csproj.CopyComplete
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\refint\AquiEstoy MongoDB.dll
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.pdb
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\AquiEstoy MongoDB.genruntimeconfig.cache
+C:\Users\ddcre\OneDrive\Escritorio\SESMESTRE 7\TALLER DE SISTEMAS DE INFORMACION\BACKEND_DOCKERFILE\AquiEstoy MongoDB\obj\Release\net6.0\ref\AquiEstoy MongoDB.dll
